@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html style="max-width: 100vw; overflow-x: hidden;">
 <head>
